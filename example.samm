@@ -1,0 +1,32 @@
+{
+  "formatVersion": "0.1.0",
+  "assessment": {
+    "version": "2.0.8",
+    "organisation": "Acme Corporation",
+    "scope": "Team Coyote",
+    "date": "2007-07-17",
+    "answers": [
+      {
+        "questionCode": "G-SM-A-1",
+        "answerScore": 1.0
+      },
+      {
+        "questionCode": "G-SM-A-2",
+        "answerScore": 0.5
+      },
+      {
+        "questionCode": "G-SM-A-3",
+        "answerScore": 0.25
+      }
+    ]
+  },
+  "extensions": [
+    {
+      "name": "Benchmark",
+      "version": "1.0.0",
+      "assessmentType": "Self",
+      "assessmentScope": "Team",
+      "geographicRegion": "Global"
+    }
+  ]
+}
