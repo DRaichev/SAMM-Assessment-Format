@@ -20,9 +20,9 @@
             "1.2.3"
           ]
         },
-        "organisation": {
+        "organization": {
           "type": "string",
-          "description": "The organisation conducting the assessment.",
+          "description": "The organization conducting the assessment.",
           "examples": [
             "Acme Corporation"
           ]
@@ -68,7 +68,7 @@
       },
       "required": [
         "version",
-        "organisation",
+        "organization",
         "scope",
         "date",
         "answers"
