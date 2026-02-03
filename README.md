@@ -37,5 +37,5 @@ A list of extensions:
 
 *Note – if you want an extension to be added to this list please submit a PR*
 
-- [Stream Remarks Extension](https://github.com/DRaichev/SAMM-Assessment-Format-Remarks-Extension) - works with 
-  Codific's [Sammy](https://sammy.codific.com/)
+- [Framework Extension](https://github.com/DRaichev/SAMM-Assessment-Format-Framework-Extension) - fully supported in [Sammy](https://sammy.codific.com/)
+- [Stream Remarks Extension](https://github.com/DRaichev/SAMM-Assessment-Format-Remarks-Extension) - fully supported in [Sammy](https://sammy.codific.com/)
