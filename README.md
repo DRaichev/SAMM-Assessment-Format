@@ -39,3 +39,5 @@ A list of extensions:
 
 - [Framework Extension](https://github.com/DRaichev/SAMM-Assessment-Format-Framework-Extension) - fully supported in [Sammy](https://sammy.codific.com/)
 - [Stream Remarks Extension](https://github.com/DRaichev/SAMM-Assessment-Format-Remarks-Extension) - fully supported in [Sammy](https://sammy.codific.com/)
+- [Multi-Question Answers Extension](https://github.com/DRaichev/SAMM-Assessment-Format-Multi-Question-Answers-Extension) - fully supported in [Sammy](https://sammy.codific.com/)
+- [Answer Criteria Extension](https://github.com/DRaichev/SAMM-Assessment-Format-Answer-Criteria-Extension) - fully supported in [Sammy](https://sammy.codific.com/)
